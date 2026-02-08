@@ -1,3 +1,2 @@
 Welcome to my GitHub profile!
-
-MI name is ....
+hi!
